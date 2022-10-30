@@ -1,3 +1,5 @@
+Good luck in your studies, everyone! Don't lose faith in yourself and your motivation. I believe in you!
+
 No Pain, No Gain
 No time for losers you make the call
 
@@ -40,3 +42,4 @@ Hello HEXLET!
 This is my first pull request
 Hi guys
 Hello Hexlet
+ 
